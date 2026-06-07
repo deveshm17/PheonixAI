@@ -1,4 +1,4 @@
-# 📌 Clear Vision: Image Super-Resolution using GANs
+# 📌 PheonixAI: Image Super-Resolution using GANs
 
 <b>Note: Use 64x64(or less than 128x128) pixel images for better results because model upsamples the images to 128x128</b><br>
 <b> You can try these Corrupted samples for testing (64x64):</b> [Corrupted](https://drive.google.com/drive/folders/1Q1aRVazgiDPyZ3cBlAGdXYPtKml3e3MZ) <br>
@@ -101,12 +101,6 @@ Each model was tested on corrupted images to assess real-world performance degra
        <code>OpenCV</code> - For reading, resizing, and applying filters to images before and after super-resolution.
   </li>
 </ul>
-
-@aadit siroya
-@ashmit rawat
-@deepanshu kumar
-@sagar modi
-@saksham bansal
 
 ## 📚 References
 

@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+pillow
+scikit-image
+numpy
+torch
+torchvision
+git+https://github.com/richzhang/PerceptualSimilarity
